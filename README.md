@@ -41,7 +41,7 @@ There's two other specific injectors for stored procedure having `OUT` or
  ![PDOPlusPlus Out](/PDOPlusPlusOut.png)<br><br>
  ![PDOPlusPlus InOut](/PDOPlusPlusInOut.png)
 
-On error, any function will just log internally the system error using `error_log()` and return `null`.
+On error, any function will log internally the system error using `error_log()` and throw a standard Exception.
  
 ### **WHY PDOPlusPlus ?**
 
