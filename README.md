@@ -108,6 +108,7 @@ INSERT INTO t_video (
 sql;
 $id = $ppp->insert($sql);
 ```
+With exactly the same level of security !
 
 ### **HOW TO USE IT**
 
