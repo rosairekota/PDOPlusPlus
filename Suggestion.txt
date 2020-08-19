@@ -1,0 +1,6 @@
+Salut.
+je tiens à priori à te remercier pour ce travail abbatu. 
+Félicitation !
+
+Cependant,je te suggere à bien vouloir le publier dans packegist afin toute la communauté PHP en profite:
+Donc en lieu place que la personne vienne le télécharger ici, elle pourras faire un composer require rawsrc/PDOPlusPlusPlus.
